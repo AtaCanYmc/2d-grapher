@@ -1,0 +1,6 @@
+/Users/atacan/Projects/grapher.mark.IIII/grapher.mark.IIII/bin/Debug/grapher.mark.IIII.exe
+/Users/atacan/Projects/grapher.mark.IIII/grapher.mark.IIII/bin/Debug/grapher.mark.IIII.pdb
+/Users/atacan/Projects/grapher.mark.IIII/grapher.mark.IIII/obj/Debug/grapher.mark.IIII.exe
+/Users/atacan/Projects/grapher.mark.IIII/grapher.mark.IIII/obj/Debug/grapher.mark.IIII.pdb
+/Users/atacan/Projects/grapher.mark.IIII/grapher.mark.IIII/obj/Debug/grapher.mark.IIII.csproj.AssemblyReference.cache
+/Users/atacan/Projects/grapher.mark.IIII/grapher.mark.IIII/obj/Debug/grapher.mark.IIII.csproj.CoreCompileInputs.cache
